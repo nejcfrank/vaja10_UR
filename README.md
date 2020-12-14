@@ -1,4 +1,5 @@
 # vaja10_UR
+Študent A:
 tekstovne datoteke text1, text2, text3.
 
 Študent B:
